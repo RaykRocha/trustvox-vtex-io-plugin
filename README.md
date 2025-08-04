@@ -123,7 +123,7 @@ Este bloco pode ser adicionado à página do produto (`store.product`) e renderi
 
 Este bloco renderiza o widget de certificado de *Reviews Verdadeiros*, você pode ver mais sobre [aqui](https://help.trustvox.com.br/pt-BR/articles/5551970-como-adicionar-e-exibir-o-selo-de-reviews-verdadeiros-no-seu-site).
 
-![certificate-ratrustvox block](/docs/assets/certificate-ratrustvox.png)
+![certificate-ratrustvox block](/docs/assets/certificate-ratrustvox.png) 
 
 ### bloco: colt-ratrustvox
 
